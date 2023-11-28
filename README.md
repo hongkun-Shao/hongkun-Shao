@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!--
-**hongkun-Shao/hongkun-Shao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a junior student from AHU
+- 🌱 I’m currently learning DB && PNC infra
+- 📫 How to reach me: lion03723@outlook.com
+- personal blog website: http://showmycodes.com
+- nice to meet you here
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m a junior student from AHU...
-- 🌱 I’m currently learning DB && PNC infra...
-- 📫 How to reach me: lion03723@outlook.com...
-- nice to meet you here...
--->
